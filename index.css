@@ -1,0 +1,9 @@
+#header {
+    background-color: rgb(248, 232, 14);
+    display: flex;
+    justify-content: space-between;
+}
+
+#stunning-logo {
+    width: 100px;
+}
